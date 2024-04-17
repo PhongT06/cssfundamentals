@@ -1,0 +1,24 @@
+h2 {
+    font-family: 'Arial', sans-serif; 
+    font-size: 36px; 
+    font-weight: bold; 
+    color: #4d2600; 
+    text-align: center; 
+    margin-top: 50px;
+}
+
+button {
+        width: 350px;
+        height:350px;
+        font-size: 30px;
+        margin-top: 20px;
+        border-radius: 600px;
+        margin-left: 40vw;
+        margin-right: 50vw;
+        background: linear-gradient(#e66465, #9198e5); 
+}
+
+button:hover {
+    box-shadow: 10px 10px 10px gray;
+}
+
